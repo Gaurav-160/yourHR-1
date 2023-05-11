@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/bc509d57-41ad-49f1-b334-437a17637934/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/yourHR-djangoProjectByGaurav",
+  "appService.deploySubpath": "."
+}
